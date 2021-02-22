@@ -1,0 +1,3 @@
+alert(
+	's;dlfjk'
+);
